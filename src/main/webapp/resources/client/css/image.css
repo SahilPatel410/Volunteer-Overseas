@@ -1,0 +1,121 @@
+.trending-image1{
+	background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0)0%, rgba(0, 0, 0, 0.06) 10%, rgba(0, 0, 0, 0.15) 22%, rgba(0, 0, 0, 0.72) 75%,
+		rgba(0, 0, 0, 0.84) 89%, rgba(0, 0, 0, 0.91) 100%), url('../images/thumb01.jpg');
+	height: 395px;
+}
+.trending-image2{
+	background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0)0%, rgba(0, 0, 0, 0.06) 10%, rgba(0, 0, 0, 0.15) 22%, rgba(0, 0, 0, 0.72) 75%,
+		rgba(0, 0, 0, 0.84) 89%, rgba(0, 0, 0, 0.91) 100%), url('../images/thumb02.jpg');
+	height: 395px;
+}
+.trending-image3{
+	background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0)0%, rgba(0, 0, 0, 0.06) 10%, rgba(0, 0, 0, 0.15) 22%, rgba(0, 0, 0, 0.72) 75%,
+		rgba(0, 0, 0, 0.84) 89%, rgba(0, 0, 0, 0.91) 100%), url('../images/thumb03.jpg');
+	height: 395px;
+}
+.trending-image4{
+	background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0)0%, rgba(0, 0, 0, 0.06) 10%, rgba(0, 0, 0, 0.15) 22%, rgba(0, 0, 0, 0.72) 75%,
+		rgba(0, 0, 0, 0.84) 89%, rgba(0, 0, 0, 0.91) 100%), url('../images/thumb04.jpg');
+	height: 395px;
+}
+
+
+.feature-image1{
+	background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0)0%, rgba(0, 0, 0, 0.06) 10%, rgba(0, 0, 0, 0.15) 22%, rgba(0, 0, 0, 0.72) 75%,
+		rgba(0, 0, 0, 0.84) 89%, rgba(0, 0, 0, 0.91) 100%), url('../images/thumb10.jpg');
+	height: 250px;
+}
+.feature-image2{
+	background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0)0%, rgba(0, 0, 0, 0.06) 10%, rgba(0, 0, 0, 0.15) 22%, rgba(0, 0, 0, 0.72) 75%,
+		rgba(0, 0, 0, 0.84) 89%, rgba(0, 0, 0, 0.91) 100%), url('../images/thumb11.jpg');
+	height: 250px;
+}
+.feature-image3{
+	background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0)0%, rgba(0, 0, 0, 0.06) 10%, rgba(0, 0, 0, 0.15) 22%, rgba(0, 0, 0, 0.72) 75%,
+		rgba(0, 0, 0, 0.84) 89%, rgba(0, 0, 0, 0.91) 100%), url('../images/thumb12.jpg');
+	height: 250px;
+}
+.feature-image4{
+	background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0)0%, rgba(0, 0, 0, 0.06) 10%, rgba(0, 0, 0, 0.15) 22%, rgba(0, 0, 0, 0.72) 75%,
+		rgba(0, 0, 0, 0.84) 89%, rgba(0, 0, 0, 0.91) 100%), url('../images/thumb13.jpg');
+	height: 250px;
+}
+.feature-image5{
+	background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0)0%, rgba(0, 0, 0, 0.06) 10%, rgba(0, 0, 0, 0.15) 22%, rgba(0, 0, 0, 0.72) 75%,
+		rgba(0, 0, 0, 0.84) 89%, rgba(0, 0, 0, 0.91) 100%), url('../images/thumb14.jpg');
+	height: 250px;
+}
+.feature-image6{
+	background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0)0%, rgba(0, 0, 0, 0.06) 10%, rgba(0, 0, 0, 0.15) 22%, rgba(0, 0, 0, 0.72) 75%,
+		rgba(0, 0, 0, 0.84) 89%, rgba(0, 0, 0, 0.91) 100%), url('../images/thumb15.jpg');
+	height: 250px;
+}
+
+
+
+
+.affordable-image1{
+	background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0)0%, rgba(0, 0, 0, 0.06) 10%, rgba(0, 0, 0, 0.15) 22%, rgba(0, 0, 0, 0.72) 75%,
+		rgba(0, 0, 0, 0.84) 89%, rgba(0, 0, 0, 0.91) 100%), url('../images/thumb16.jpg');
+	height: 400px;
+}
+.affordable-image2{
+	background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0)0%, rgba(0, 0, 0, 0.06) 10%, rgba(0, 0, 0, 0.15) 22%, rgba(0, 0, 0, 0.72) 75%,
+		rgba(0, 0, 0, 0.84) 89%, rgba(0, 0, 0, 0.91) 100%), url('../images/thumb17.jpg');
+	height: 400px;
+}
+.affordable-image3{
+	background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0)0%, rgba(0, 0, 0, 0.06) 10%, rgba(0, 0, 0, 0.15) 22%, rgba(0, 0, 0, 0.72) 75%,
+		rgba(0, 0, 0, 0.84) 89%, rgba(0, 0, 0, 0.91) 100%), url('../images/thumb18.jpg');
+	height: 400px;
+}
+.affordable-image4{
+	background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0)0%, rgba(0, 0, 0, 0.06) 10%, rgba(0, 0, 0, 0.15) 22%, rgba(0, 0, 0, 0.72) 75%,
+		rgba(0, 0, 0, 0.84) 89%, rgba(0, 0, 0, 0.91) 100%), url('../images/thumb19.jpg');
+	height: 400px;
+}
+.affordable-image5{
+	background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0)0%, rgba(0, 0, 0, 0.06) 10%, rgba(0, 0, 0, 0.15) 22%, rgba(0, 0, 0, 0.72) 75%,
+		rgba(0, 0, 0, 0.84) 89%, rgba(0, 0, 0, 0.91) 100%), url('../images/thumb20.jpg');
+	height: 400px;
+}
+.affordable-image6{
+	background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0)0%, rgba(0, 0, 0, 0.06) 10%, rgba(0, 0, 0, 0.15) 22%, rgba(0, 0, 0, 0.72) 75%,
+		rgba(0, 0, 0, 0.84) 89%, rgba(0, 0, 0, 0.91) 100%), url('../images/thumb21.jpg');
+	height: 400px;
+}
+.affordable-image7{
+	background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0)0%, rgba(0, 0, 0, 0.06) 10%, rgba(0, 0, 0, 0.15) 22%, rgba(0, 0, 0, 0.72) 75%,
+		rgba(0, 0, 0, 0.84) 89%, rgba(0, 0, 0, 0.91) 100%), url('../images/thumb22.jpg');
+	height: 400px;
+}
+.affordable-image8{
+	background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0)0%, rgba(0, 0, 0, 0.06) 10%, rgba(0, 0, 0, 0.15) 22%, rgba(0, 0, 0, 0.72) 75%,
+		rgba(0, 0, 0, 0.84) 89%, rgba(0, 0, 0, 0.91) 100%), url('../images/thumb23.jpg');
+	height: 400px;
+}
+.affordable-image9{
+	background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0)0%, rgba(0, 0, 0, 0.06) 10%, rgba(0, 0, 0, 0.15) 22%, rgba(0, 0, 0, 0.72) 75%,
+		rgba(0, 0, 0, 0.84) 89%, rgba(0, 0, 0, 0.91) 100%), url('../images/thumb24.jpg');
+	height: 400px;
+}
+.affordable-image10{
+	background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0)0%, rgba(0, 0, 0, 0.06) 10%, rgba(0, 0, 0, 0.15) 22%, rgba(0, 0, 0, 0.72) 75%,
+		rgba(0, 0, 0, 0.84) 89%, rgba(0, 0, 0, 0.91) 100%), url('../images/thumb25.jpg');
+	height: 400px;
+}
+.affordable-image11{
+	background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0)0%, rgba(0, 0, 0, 0.06) 10%, rgba(0, 0, 0, 0.15) 22%, rgba(0, 0, 0, 0.72) 75%,
+		rgba(0, 0, 0, 0.84) 89%, rgba(0, 0, 0, 0.91) 100%), url('../images/thumb26.jpg');
+	height: 400px;
+}
+.affordable-image12{
+	background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0)0%, rgba(0, 0, 0, 0.06) 10%, rgba(0, 0, 0, 0.15) 22%, rgba(0, 0, 0, 0.72) 75%,
+		rgba(0, 0, 0, 0.84) 89%, rgba(0, 0, 0, 0.91) 100%), url('../images/thumb27.jpg');
+	height: 400px;
+}
+.affordable-image13{
+	background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0)0%, rgba(0, 0, 0, 0.06) 10%, rgba(0, 0, 0, 0.15) 22%, rgba(0, 0, 0, 0.72) 75%,
+		rgba(0, 0, 0, 0.84) 89%, rgba(0, 0, 0, 0.91) 100%), url('../images/thumb28.jpg');
+	height: 400px;
+}

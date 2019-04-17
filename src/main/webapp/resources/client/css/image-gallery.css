@@ -1,0 +1,126 @@
+.img-gallery-row > .img-gallery-column {
+  padding: 0 8px;
+}
+
+.img-gallery-row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.img-gallery-column {
+  float: left;
+  width: 25%;
+}
+
+.img-gallery-modal {
+  display: none;
+  position: fixed;
+  z-index: 102;
+  padding: 8% 15% 8% 15%;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: auto;
+  overflow: auto;
+  background-color: black;
+}
+
+/* Modal Content */
+.img-gallery-modal-content {
+  position: relative;
+  background-color: #fefefe;
+  margin: auto;
+  padding: 0;
+  width: 90%;
+  max-width: 1200px;
+}
+
+/* The Close Button */
+.img-gallery-close {
+  color: white;
+  position: absolute;
+  top: 10px;
+  right: 25px;
+  font-size: 35px;
+  font-weight: bold;
+}
+
+.img-gallery-close:hover,
+.img-gallery-close:focus {
+  color: #999;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.img-gallery-mySlides {
+  display: none;
+}
+
+.img-gallery-cursor {
+  cursor: pointer;
+}
+
+/* Next & previous buttons */
+.img-gallery-prev,
+.img-gallery-next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -50px;
+  background:center;
+  color: white!important;
+  font-weight: bold;
+  font-size: 20px;
+  transition: 0.6s ease;
+  user-select: none;
+  -webkit-user-select: none;
+  
+}
+
+.img-gallery-prev{
+  left: -100px;
+  border-radius: 0 3px 3px 0;
+}
+/* Position the "next button" to the right */
+.img-gallery-next {
+  right: -100px;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+/*.img-gallery-prev:hover,
+.img-gallery-next:hover {
+  background-color: rgba(0, 0, 0, 0.8);
+}*/
+
+/* Number text (1/3 etc) */
+.img-gallery-numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+.img-gallery-img {
+  margin-bottom: -4px;
+}
+
+.img-gallery-caption-container {
+  text-align: center;
+  background-color: black;
+  padding: 2px 16px;
+  color: white;
+}
+
+.img-gallery-demo {
+  opacity: 0.6;
+}
+
+.img-gallery-active,
+.img-gallery-demo:hover {
+  opacity: 1;
+}

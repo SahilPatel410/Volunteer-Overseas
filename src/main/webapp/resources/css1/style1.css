@@ -1,0 +1,39 @@
+.nav-head {
+    background-color: transparent !important;
+    border-bottom: 1px solid white;
+    margin: 0px 35px;
+}
+
+.prj-logo {
+}
+
+.toggle-menu {
+    background-image: url("material/Docs/images/menu.svg") !important;
+    border: none;
+    height: 30px;
+    float: right;
+}
+
+.nav-a-link {
+    color: white !important;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: Roboto,sans-serif;
+    margin-right: 45px;
+}
+
+.nav-ul {
+    margin-left: 85px !important;
+}
+
+@media screen and (max-width:1024px) {
+    .nav-ul {
+        margin-left: 0px !important;
+    }
+}
+
+
+.login-btn {
+    color: white !important;
+    border: 1px solid white;
+}

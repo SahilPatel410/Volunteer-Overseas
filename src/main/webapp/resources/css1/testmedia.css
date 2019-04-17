@@ -1,0 +1,138 @@
+@media only screen and (min-width: 1024px) {
+	
+	
+	/* div.side-menu{position: fixed;width: auto;} */
+	div.search-bar .row .col-sm-3>select,input.search-input{background: transparent; border: 1px solid white;color: white;
+	border-radius: 0px;text-align: center;height: 50px;}
+	/* div.sub-btn input{width: auto;margin-left: 45%;} */ 
+    div.search-bar button{margin-top: 35px;height: 50px;border-radius: 0px;text-align: center;border: 1px solid white;width: 100%;}
+	header.search-banner div h3{margin-bottom: 30px;}
+	header.search-banner div h1{margin: 30px 0px;}
+	header.search-banner .row {justify-content:center;}
+	div#exampleModal .modal-header button{display: none;}
+	div#exampleModal .modal-dialog{width:100%;}
+	.check-div p{margin-left: 25%;font-size: 12px;}
+	.fixed-header#links{top: 6.5%;}
+}
+	@media  screen and (max-width:1023px) and (min-width: 768px){
+		
+	header.head-contact nav img{width: 150px;height: 50px;}
+	header.head-contact div.header-title-contact h1{ font-size: 32px; }
+	div.contact-text p{font-size: 19px;color: #B2B4B3; margin: 10px 50px 10px 50px;}
+	div.sub-btn input{width: auto; margin-left: 45%;} 
+	div.search-bar .row .col-sm-3>select,input.search-input{background: transparent;border: 1px solid white;color: white; border-radius: 0px;text-align: center;height: 50px;}
+    div.search-bar button{margin-top: 35px;height: 50px;border-radius: 0px;text-align: center;border: 1px solid white;width: 100%;}
+    header.search-banner div h1{font-size: 42px; margin-bottom: 20px;color: white;}
+    header.search-banner div .row {justify-content: center;}
+    header.search-banner img{width: 125px;}	
+    header.search-banner div h3{font-size: 24px;}
+    header.search-banner .row {justify-content: center;}
+    div#exampleModal .modal-header button{display: none;}
+    div.search-result-row button.more-filter-button{display: none;}
+    div.search-result-row button.more-filter-button-2{display: block;}
+    header.search-banner div h3{margin-bottom: 30px;}
+    header.search-banner div h1{margin: 30px 0px;}
+    div.side-menu{position: fixed;width: auto;}
+    .check-div p{margin-left: 5%;font-size: 12px;}
+    .check-div .col-sm-6 h3{font-size: 20px;}
+     .side-menu.collapse{display: block;}
+     label#main-label{font-size: 24px;}
+     label#location{font-size: 16px;}
+      label#logo-label{font-size: 24px;}
+    }
+
+
+
+
+
+
+@media only screen and  (max-width: 767px) and (min-width: 426px) {
+
+	.head-contact{background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0)0%, rgba(0, 0, 0, 0.06) 10%,rgba(0, 0, 0, 0.15) 22%, rgba(0, 0, 0, 0.72) 75%, rgba(0, 0, 0, 0.84) 89%, 
+	rgba(0, 0, 0, 0.91) 100%),url(../images/contact-banner-mobile.jpg);}
+	.project-start-div h2{font-size: 32px;font-weight: bold;}
+	label#main-label{font-size: 26px;}
+	.pic-row h2{font-size: 30px;}		
+	.header-text h1{font-size: 32px;}
+	.view-btn{height:20px;border-radius: 5px;border:none;font-size: 15px;}
+	header.head-contact div.header-title-contact h1{ font-size: 28px; }
+	div.sub-btn input{width: auto; margin-left: 40%;} 
+	.faq-accordion button.accordion{font-size: 18px;}
+	.faq-accordion div.panel {font-size: 14px;}
+	header.search-banner div h1{font-size: 32px; margin-bottom: 20px;}
+	header.search-banner  nav img{width: 150px;}	
+	header.search-banner div h3{font-size: 18px;margin-bottom: 20px;}
+	header.search-banner div{padding-top: 20px;}
+	div.search-bar .row{justify-content: center;}
+	div.search-bar .row .col-sm-3>select,input.search-input{background: transparent;border: 1px solid white;color: white; border-radius: 0px;text-align: center;height: 50px;}
+	div.search-bar button{margin-top: 35px;height: 50px;border-radius: 0px;text-align: center;border: 1px solid white;width: 100%;}
+ 	div#slider1>h2,div#slider2>h2,div#slider3>h2{font-size:24px;margin-top: 20px;font-weight: bolder;margin-bottom: 10px;}
+ 	div#slider3 .owl-carousel .owl-item img {height: 300px;}
+ 	div.side-menu{width:auto;}
+  	.view-btn{height: 50px;padding: 5px;}
+  	.view-btn label{font-size: 18px;}
+  	.check-div p{margin-left: 20%;}
+  	 div.check-div .col-sm-6{margin: 0px -15px;}
+  	 .check-div .col-sm-6 h3{font-size: 24px;}
+  	 .side-menu.collapse{display: block;}
+  	 .side-menu{display: block;}
+  	  div.search-result-row button.more-filter-button{display: none;}
+    div.search-result-row button.more-filter-button-2{display: block;}
+
+}
+
+
+
+@media only screen and (max-width: 425px) {
+	.head-contact{background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0)0%, rgba(0, 0, 0, 0.06) 10%,rgba(0, 0, 0, 0.15) 22%, rgba(0, 0, 0, 0.72) 75%, 
+		rgba(0, 0, 0, 0.84) 89%, rgba(0, 0, 0, 0.91) 100%),url(../images/contact-banner-mobile.jpg);}
+	
+	.cost-div img{margin-bottom: 10px;margin-left: 40%;}
+	div#exampleModal1 .modal-footer button.btn{width: 100%; background-color: #00ACC1; color: white;}
+	div.search-bar{margin-top: 20px;}
+	div.search-bar .row{justify-content: center;}
+	div.search-bar button{width:100%;height: 40px;border-radius: 5px;}
+	div.search-bar label{position: absolute;color: red;text-align: left;margin-top: 0px;margin-left: 5px;width: 15%; background-color: white;height:38px;border-radius: 5px 0px 0px 5px;padding-top: 5px;padding-left: 15px;}
+	div.search-bar select{margin-left: 15%;width: 85%;border-radius: 0px 5px 5px 0px;}
+	div.search-bar .row .col-sm-3>select.home-select-1{padding-left: 15%;}
+	div.search-bar .row .col-sm-3>select.home-select-2{padding-left: 20%;}
+	div.search-bar input{margin-left: 15%;width: 85%;border-radius: 0px 5px 5px 0px; padding-left: 20%;}
+	header.search-banner  nav img{width: 150px;}
+	div.search-result-row{display: none;}
+	div.search-result-row-2{display: flex!important	;}	
+	header.head-index .navbar-light .navbar-nav .nav-link,header.search-result-header .navbar-light .navbar-nav .nav-link,header.search-banner .navbar-light .navbar-nav .nav-link,header.head-contact .navbar-light .navbar-nav .nav-link,header.head-faq .navbar-light .navbar-nav .nav-link{font-size: 12px;margin-left: 0px;}
+	div#signupmodal .modal-body .form-group img#signup-img{left:15%;}
+	.view-btn{height: 40px;padding: 2px;margin-bottom: 10px;}
+	.view-btn label{font-size: 16px;}
+	.check-div p{margin-left: 25%;}
+	.check-div .col-sm-6 h3{font-size: 30px;}
+	div#links{padding: 5px 0px;}
+	#links a#nav{font-size: 14px;}
+	#links div.flex-fill{padding:0px; }
+	div.hide-side-menu button{display: block;}
+	.side-menu label#title-label{display: none;}
+	.side-menu{display: none;}
+	.side-menu.show{display: block;height: auto;}
+	.cost-div .col-6 .row{justify-content: space-around;}
+	 label#location{font-size: 24px;}
+    label#logo-label{font-size: 24px;}
+	div.info-row img{height: 20px;width: 20px;}
+	div.search-result-row button.more-filter-button{display: block;}
+    div.search-result-row button.more-filter-button-2{display: none;}
+
+}
+
+@media only screen and (max-width: 360px){
+	div.header-title-index h1{font-size: 32px;}
+div.search-result-row-2 button{font-size: 8px; margin-top: 0px;}
+div.search-result-row-2 label{color: #00ACC1;font-size: 10px;}
+header.search-banner div h1{font-size: 32px;margin: 20px 0px;}
+header.search-banner div h3{margin-left: 20px 0px;}
+.view-btn{height: 40px;padding: 2px;margin-bottom: 10px;}
+.view-btn label{font-size: 16px;}
+div.cost-div img{ margin-left: 40% }
+.check-div p{margin-left: 10%;}
+#links a#nav{font-size: 12px;}
+#links div.flex-fill{padding:10px 0px;}
+
+}
